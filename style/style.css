@@ -1,0 +1,67 @@
+#Testo{
+    overflow-x: hidden;
+    margin-right: calc(-1 * (100vw - 100%));
+      
+}
+
+
+.infos {
+    padding-top: 5%;
+    display: flex;
+    align-items: center;
+    padding-left: 9%;
+    font-size: calc(15px + 0.3vw);
+    color : black;
+}
+
+.infosquare {
+    width : calc(15px + 1vw);
+    height : auto;
+    margin-right: 5%;
+}
+
+#TITORO {
+    padding-top: 5%;
+    font-size: calc(18px + 2vw);
+    text-align: center;
+}
+#TITORO p{
+    font-size: calc(15px + 1vw);
+}
+
+#headContent {
+    background-color: #bbdefb;
+    min-height: 20vh;
+    padding-bottom: 3vh;
+}
+
+#profilPic {
+    width : 50%;
+    padding-top: 20px;
+}
+
+#persInfo {
+    padding-top: 2.6%;
+}
+
+#myTab{
+    border-top : solid;
+    border-bottom: solid;
+    border-color: #0d6efd;
+    background-color: #eeffff;
+}
+
+#myTabContent {
+    padding-left: 2vw;
+    padding-top: 20px;
+}
+#myTabContent h1{
+    font-size: calc(18px + 1vw);
+}
+#myTabContent h2{
+    font-size: calc(18px + 0.7vw);
+}
+#myTabContent p{
+    font-size: calc(18px + 0.3vw);
+    padding-left : 1vw
+}
